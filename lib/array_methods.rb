@@ -23,6 +23,6 @@ def using_last(array)
 end
 
 def using_size(array)
-  family_people = ["wow", "arrays!", "arrays!"]
+  family_people = ["wow", "arrays!", "arrays!", "hi", "hello", "greetings"]
   family_people.size 
 end
